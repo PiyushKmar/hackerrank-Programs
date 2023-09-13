@@ -305,7 +305,7 @@ int main() {
 }
 
 /*(Questions)Given a character and we have to find its ASCII value.
-An ASCII value is a code (numeric value) of keys. We put the any character, symbol etc, than the computer can’t understand. A computer can understand only code and that code against each key is known as ASCII Code.
+An ASCII value is a code (numeric value) of keys. We put the any character, symbol etc, than the computer canâ€™t understand. A computer can understand only code and that code against each key is known as ASCII Code.
 Input Format
 Take a character from the user.
 Constraints
@@ -334,7 +334,7 @@ int main() {
     return 0;
 }
 
-/*(Question)In this program we are going to learn how to convert given feet into inches? Let’s understand what are feet and inches first...
+/*(Question)In this program we are going to learn how to convert given feet into inches? Letâ€™s understand what are feet and inches first...
 Word Feet is a plural of foot which is a measurement unit of length and inch is also a measurement of unit length. A foot contains 12 inches. So the logic to convert feet to inches is quite very simple, we have to just multiply 12 into the given feet (entered through the user) to get the measurement in inches.
 In this example, we will read value of feet from the user and displays converted inches to the standard output device.
 Input Format
